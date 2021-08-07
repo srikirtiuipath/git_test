@@ -52,6 +52,6 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="230.857142857143,62.8571428571429" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="hello" />
+    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="230.857142857143,62.8571428571429" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="hello test" />
   </Sequence>
 </Activity>
